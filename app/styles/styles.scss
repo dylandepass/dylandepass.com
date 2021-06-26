@@ -1,0 +1,14 @@
+@import 'bulma/sass/utilities/_all.sass';
+@import 'bulma/sass/grid/columns.sass';
+@import 'bulma/sass/elements/content.sass';
+@import 'bulma/sass/elements/container.sass';
+@import 'bulma/sass/layout/section.sass';
+@import 'bulma/sass/layout/hero.sass';
+@import 'bulma/sass/components/navbar.sass';
+@import 'bulma/sass/helpers/color.sass';
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}

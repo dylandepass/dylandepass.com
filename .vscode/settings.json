@@ -1,0 +1,19 @@
+{
+    "prettier.configPath": ".prettierrc",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "[typescript]": {
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+    },
+    "[json]": {
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+    },
+    "[html]": {
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "css.validate": false
+}
